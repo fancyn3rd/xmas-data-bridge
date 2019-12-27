@@ -1,0 +1,15 @@
+{
+  "name": "xmas-data-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0",
+    "serialport": "^8.0.5"
+  }
+}
