@@ -1,6 +1,6 @@
 # xmas-data-bridge
 
-Data bride for my [Interactive xmas tree](https://github.com/fancyn3rd?tab=projects#interactive-xmas-tree)
+Data bride for my [Interactive xmas tree](https://github.com/fancyn3rd?tab=projects#interactive-xmas-tree) project.
 
 Its a node.js service that listens to the serial port.  
 Then it publishes
